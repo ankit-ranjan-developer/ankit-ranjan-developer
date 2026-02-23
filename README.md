@@ -18,13 +18,13 @@ I am currently building strong foundations in Data Structures & Algorithms and B
 **Frontend**
 - Bootstrap
 - EJS
-- (Learning React)
+- React
 
 **Backend**
 - Node.js
 - Express.js
 - REST APIs
-- Authentication (In Progress)
+- Authentication
 
 **Database**
 - PostgreSQL
