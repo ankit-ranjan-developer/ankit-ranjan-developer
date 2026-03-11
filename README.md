@@ -2,7 +2,7 @@
 # 👋 Ankit Ranjan
 
 B.Tech Computer Science Student  
-Aspiring PERN Stack Developer | DSA in Java 
+PERN Stack Developer | DSA in Java 
 
 I am currently building strong foundations in Data Structures & Algorithms and Backend Engineering, while learning full-stack development using PostgreSQL, Express, Node, and React.
 
@@ -55,7 +55,7 @@ I am currently building strong foundations in Data Structures & Algorithms and B
 - Focused on understanding API handling and backend logic
 
 ### Portfolio Website
-- Responsive design using HTML, CSS, Bootstrap
+- Responsive design using HTML, CSS. 
 - Structured layout with clean UI principles
 
 ### Simon Game
